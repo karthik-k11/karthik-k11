@@ -12,7 +12,7 @@
   
 </p>
 
-## 🔁 About Me:
+## 🙋‍♂️ About Me:
 
 - 🧑‍💻 Currently working as an **Data scientist and AI/ML Intern at Analogica Software Development**, Bengaluru.
 - 📚 Pursuing **MCA** with a strong focus on Artificial Intelligence and Computer Vision.
