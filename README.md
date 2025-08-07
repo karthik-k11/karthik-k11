@@ -19,4 +19,4 @@
 - ⚙️ Exploring areas like **Building ML models**, **Flask Web Apps**, and **DSA**.
 - 🧠 Passionate about **AI-driven automation**, **data analytics**, and **innovative software projects**.
 - 🤝 Open to collaborating on **Python, SQL, Machine Learning**, and **Computer Vision** projects.
-- 📫 Reach me at: [karthikk1162@email.com](mailto:karthikk1162@email.com)
+- 📫 Reach me at: [karthikk1162@gmail.com](mailto:karthikk1162@gmail.com)
