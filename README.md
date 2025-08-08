@@ -1,6 +1,6 @@
-<h1 align="left">Karthik K</h1>
+<h1 align="center">Karthik K</h1>
 
-<p align="left">
+<p align="center">
   <em> Machine Learning Engineer | Data Scientist</em>
 </p>
 
