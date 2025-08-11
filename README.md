@@ -15,8 +15,8 @@
 ## 🙋‍♂️ About Me:
 
 - 🧑‍💻 Currently working as an **Data scientist and AI/ML Intern at Analogica Software Development**, Bengaluru.
-- 📚 Pursuing **MCA** with a strong focus on Artificial Intelligence and Computer Vision.
-- ⚙️ Exploring areas like **Building ML models**, **Flask Web Apps**, and **DSA**.
+- 📚 Pursuing **MCA** with a strong focus on Artificial Intelligence and Data Science.
+- ⚙️ Exploring areas like **Building ML models**, **Flask Web Apps**, **EDA** and **DSA**.
 - 🧠 Passionate about **AI-driven automation**, **data analytics**, and **innovative software projects**.
 - 🤝 Open to collaborating on **Python, SQL, Machine Learning**, and **Computer Vision** projects.
 - 📫 Reach me at: [karthikk1162@gmail.com](mailto:karthikk1162@gmail.com)
