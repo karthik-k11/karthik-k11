@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
   <!-- ML & Data Science -->
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
