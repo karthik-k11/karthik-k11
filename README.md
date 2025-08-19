@@ -20,3 +20,36 @@
 - 🧠 Passionate about **AI-driven automation**, **data analytics**, and **innovative software projects**.
 - 🤝 Open to collaborating on **Python, SQL, Machine Learning**, and **Computer Vision** projects.
 - 📫 Reach me at: [karthikk1162@gmail.com](mailto:karthikk1162@gmail.com)
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+  
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,flask,django,fastapi" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle" />
+
+  <!-- Cloud & Deployment -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,render" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva" />
+
+  <!-- ML & Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-003366.svg?&style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2E4C6D.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />
+
+  </p>
+
