@@ -72,5 +72,12 @@ Key Features:
 I’m also working on several other projects across domains like **Machine Learning, Data Science, and AI applications**.  
 You can explore them in my [repositories section](https://github.com/karthik-k11?tab=repositories).  
 
+## 📜 Certifications  
+
+- **Data Science with Python** – Certisured (March 2025)  
+- **Machine Learning** – IBM  
+- **Java Programming (12 Weeks)** – NPTEL  
+- **Data Analytics and Visualization** – Accenture  
+
 
 
