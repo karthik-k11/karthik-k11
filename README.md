@@ -81,8 +81,11 @@ You can explore them in my [repositories section](https://github.com/karthik-k11
 
  ---
 
- <p allign="center">💡 *“What we want is a machine that can learn from experience.”*</p>  
-<p align="right">— <b>Alan Turing</b> 🧠 *(Father of Computer Science)*</p>
+<div align="center">
+  💡 <i>“What we want is a machine that can learn from experience.”</i>
+  <br>
+  <span style="display: block; text-align: right; margin-right: 18%;">— Alan Turing</span>
+</div>
 
 
 
