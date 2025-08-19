@@ -52,4 +52,25 @@
   <img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />
 
   </p>
+  ---
+
+## 🚀 Major Project  
+
+### 📚 AI-Driven Library Visitor Log  
+A Flask + SQLite-based system designed to automate and digitize student registration in libraries.  
+Key Features:  
+- OCR-based ID card reader (Tesseract + OpenCV).  
+- Automatic extraction of Name, Reg No, and Department.  
+- Local database (SQLite) for storing visitor logs.  
+- Dashboard to display recent entries and manage data.  
+
+🔗 [View Repository](https://github.com/karthik-k11/AI-Driven-Library-Visitor-Log)  
+
+---
+
+## 📂 Other Projects  
+I’m also working on several other projects across domains like **Machine Learning, Data Science, and AI applications**.  
+You can explore them in my [repositories section](https://github.com/karthik-k11?tab=repositories).  
+
+
 
