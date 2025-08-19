@@ -31,10 +31,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,flask,django,fastapi" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
   <!-- Cloud & Deployment -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,render" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva" />
