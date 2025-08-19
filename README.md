@@ -81,9 +81,8 @@ You can explore them in my [repositories section](https://github.com/karthik-k11
 
  ---
 
-### 💡 Inspiration  
-> *“What we want is a machine that can learn from experience.”*  
-> — **Alan Turing** *(Father of Computer Science)*
+ <p allign="center">💡 *“What we want is a machine that can learn from experience.”*</p>  
+<p align="right">— <b>Alan Turing</b> 🧠 *(Father of Computer Science)*</p>
 
 
 
