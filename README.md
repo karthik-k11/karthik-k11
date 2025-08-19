@@ -79,7 +79,12 @@ You can explore them in my [repositories section](https://github.com/karthik-k11
 - **Java Programming (12 Weeks)** – NPTEL  
 - **Data Analytics and Visualization** – Accenture
 
-  “What we want is a machine that can learn from experience.” – Alan Turing (Father of Computer Science)
+ ---
+
+### 💡 Inspiration  
+> *“What we want is a machine that can learn from experience.”*  
+> — **Alan Turing** *(Father of Computer Science)*
+
 
 
 
