@@ -77,7 +77,10 @@ You can explore them in my [repositories section](https://github.com/karthik-k11
 - **Data Science with Python** – Certisured (March 2025)  
 - **Machine Learning** – IBM  
 - **Java Programming (12 Weeks)** – NPTEL  
-- **Data Analytics and Visualization** – Accenture  
+- **Data Analytics and Visualization** – Accenture
+
+  “What we want is a machine that can learn from experience.” – Alan Turing (Father of Computer Science)
+
 
 
 
