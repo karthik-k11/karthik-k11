@@ -12,6 +12,15 @@
   
 </p>
 
+## 🌐 Portfolio
+<p align="left">
+  <a href="https://karthik-k11.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Karthik%20K-purple?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ## 🙋‍♂️ About Me:
 
 - 🧑‍💻 Currently working as a **Data scientist and AI/ML Intern at Analogica Software Development**, Bengaluru.
