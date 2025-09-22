@@ -1,7 +1,7 @@
 <h1 align="center">Karthik K</h1>
 
 <p align="center">
-  <em>Data Scientist | ML Engineer</em>
+  <em>Data Scientist</em>
 </p>
 
 <!-- Badges / Quick Links -->
