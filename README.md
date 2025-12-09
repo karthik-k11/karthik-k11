@@ -63,7 +63,7 @@
   </p>
   
   ---
-
+## 🤖 Project
 ### 🧠 RAG Knowledge Engine
 A Retrieval-Augmented Generation (RAG) system engineered to provide accurate, source-backed answers from custom datasets.
 
@@ -75,10 +75,6 @@ A Retrieval-Augmented Generation (RAG) system engineered to provide accurate, so
 
 🔗 [View Repository](https://github.com/karthik-k11/RAG-Chatbot-Project)
 ---
-
-## 📂 Other Projects  
-I’m also working on several other projects across domains like **Machine Learning, Data Science, and AI applications**.  
-You can explore them in my [repositories section](https://github.com/karthik-k11?tab=repositories).  
 
 ## 📜 Certifications  
 
