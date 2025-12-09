@@ -27,7 +27,7 @@
 - 📚 Pursuing **MCA** with a strong focus on Artificial Intelligence and Data Science.
 - ⚙️ Exploring areas like **Building ML models**, **Flask Web Apps**, **EDA** and **DSA**.
 - 🧠 Passionate about **AI-driven automation**, **data analytics**, and **innovative software projects**.
-- 🤝 Open to collaborating on **Python, SQL, Machine Learning**, and **Computer Vision** projects.
+- 🤝 Open to collaborating on **Python, Agentic AI, SQL, Machine Learning**, and **Computer Vision** projects.
 - 📫 Reach me at: [karthikk1162@gmail.com](mailto:karthikk1162@gmail.com)
 
 ## 🚀 Languages and Tools:
@@ -64,18 +64,16 @@
   
   ---
 
-## 🚀 Major Project  
+### 🧠 RAG Knowledge Engine
+A Retrieval-Augmented Generation (RAG) system engineered to provide accurate, source-backed answers from custom datasets.
 
-### 📚 AI-Driven Library Visitor Log  
-A Flask + SQLite-based system designed to automate and digitize student registration in libraries.  
-Key Features:  
-- OCR-based ID card reader (Tesseract + OpenCV).  
-- Automatic extraction of Name, Reg No, and Department.  
-- Local database (SQLite) for storing visitor logs.  
-- Dashboard to display recent entries and manage data.  
+**Key Technical Implementations:**
+- **LangChain Orchestration:** Utilized the **LangChain** framework to construct a robust retrieval pipeline connecting **Google Gemini 1.5 Flash** with custom data sources.
+- **Vector Retrieval System:** Integrated **ChromaDB** (Vector Store) and **HuggingFace Embeddings** to enable high-precision search based on document meaning.
+- **Explainable AI:** Developed a transparent **citation mechanism** that tracks and displays the exact source document and page number for every answer.
+- **Secure Data Handling:** Implemented ephemeral (temporary) file processing logic to ensure user data privacy during document ingestion.
 
-🔗 [View Repository](https://github.com/karthik-k11/AI-Driven-Library-Visitor-Log)  
-
+🔗 [View Repository](https://github.com/karthik-k11/RAG-Chatbot-Project)
 ---
 
 ## 📂 Other Projects  
