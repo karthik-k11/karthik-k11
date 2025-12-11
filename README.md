@@ -72,7 +72,6 @@ A Retrieval-Augmented Generation (RAG) system engineered to provide accurate, so
 - **Vector Retrieval System:** Integrated **ChromaDB** (Vector Store) and **HuggingFace Embeddings** to enable high-precision search based on document meaning.
 - **Explainable AI:** Developed a transparent **citation mechanism** that tracks and displays the exact source document and page number for every answer.
 - **Secure Data Handling:** Implemented ephemeral (temporary) file processing logic to ensure user data privacy during document ingestion.
-
 🔗 [View Repository](https://github.com/karthik-k11/RAG-Chatbot-Project)
 ---
 
