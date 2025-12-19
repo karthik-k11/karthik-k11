@@ -83,7 +83,7 @@ A Retrieval-Augmented Generation (RAG) system engineered to provide accurate, so
 
 ### ✍️ Article
 
-### 📈 [Overfitting: How I Learned to Stop Chasing 100% Accuracy](PASTE_YOUR_MEDIUM_LINK_HERE)
+### 📈 [Overfitting: How I Learned to Stop Chasing 100% Accuracy](https://medium.com/@karthikk11/overfitting-how-i-learned-to-stop-chasing-100-accuracy-60fceecd8a70)
 
 <p align="left">
   <a href="PASTE_YOUR_MEDIUM_LINK_HERE">
